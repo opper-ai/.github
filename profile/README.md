@@ -1,3 +1,5 @@
-# The unified interface for AI. One API, every model, full control.
+# Opper AI, the European AI Gateway for Agents
 
-Opper is an AI gateway that routes your requests to leading model providers. Tracing, guardrails, and fallback routing are built in. Made in Europe with EU data residency by default, available everywhere.
+700+ leading AI models through one EU-hosted, OpenAI-compatible API, pay as you go with no token markup. GDPR-compliant and ISO/IEC 27001 certified, with spend limits, model access rules and zero data retention routes on every plan.
+
+[opper.ai](https://opper.ai) · [Docs](https://docs.opper.ai)
